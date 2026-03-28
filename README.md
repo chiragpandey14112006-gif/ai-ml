@@ -1,9 +1,3 @@
-I totally get it. To make this look like a genuine college project, we need to dial back the "perfect" marketing tone and make it sound like a student explaining their work. It should be clear, slightly more conversational, and focused on the *process* of building it.
-
-Here is the fully restructured README, written in a grounded, student-led style:
-
----
-
 # 🛡️ Project: SpamBuddy (Message Classifier)
 
 ### **What is this?**
